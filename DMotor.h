@@ -12,10 +12,10 @@
   #define DC_MOTOR_PWM_RATE 5
   #define STEPPER1_PWM_RATE 5
   #define STEPPER2_PWM_RATE 5
-  //logic pins for "PWM"
-  #define MOTOR1_EN 2
+  //logic pins for "PWM"  WEMOS D1 R1
+  #define MOTOR1_EN 0
   #define MOTOR2_EN 5
-  #define MOTOR3_EN 16
+  #define MOTOR3_EN 4
   #define MOTOR4_EN 14
 #endif
 
